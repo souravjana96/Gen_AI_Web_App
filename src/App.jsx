@@ -10,7 +10,7 @@ function App() {
         <div>
           <label >Enter Query:</label>
           <input type="text" 
-          className='query-input' placeholder="enter placeholder"/>
+          className='query-input' placeholder="What's in your mind?"/>
         </div>
 
       </div>
