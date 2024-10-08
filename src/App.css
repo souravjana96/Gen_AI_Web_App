@@ -1,0 +1,15 @@
+.main-container {
+  background: beige;
+  min-height: 100vh;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 50px;
+}
+
+h1 {
+  color: red;
+  font-size: 92px;
+  text-shadow: 1px 1px 10px #999;
+}
