@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="main-container">
-      <h1>Gen AI Web App by Vizuara AI</h1>
+      <h1>Gen AI Web App by Vizuara AI Labs</h1>
 
       <div className="form-container">
         <div>
